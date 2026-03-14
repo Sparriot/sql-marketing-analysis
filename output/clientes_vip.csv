@@ -1,0 +1,869 @@
+id     channel       region  customer_lifetime_value
+-----  ------------  ------  -----------------------
+id     channel       region  customer_lifetime_value
+18005  Search        north   400409.8               
+18013  Email         North   47066.83               
+18033  Search        North   82369.5                
+18044  Affiliate     North   189196.9               
+18049  Social Media  North   295293.12              
+18064  Social Media  North   21731.06               
+18075  TV            Nort    38013.02               
+18080  Social Media  North   31138.34               
+18081  Social Media  North   32367.28               
+18083  TV            North   60186.74               
+18090  Social Media  North   12675.2                
+18096  Social Media  North   14170.02               
+18097  Affiliate     North   37929.18               
+18100  Affiliate     North   13125.45               
+18112  Affiliate     North   34625.57               
+18124  Email         North   64112.32               
+18125  Email         North   287396.3               
+18126  TV            North   32453.64               
+18131  Email         North   156047.5               
+18133  Email         North   36010.86               
+18134  Email         North   15146.99               
+18139  Search        North   12673.45               
+18148  Email         North   17096.96               
+18162  Social Media  North   113476.24              
+18164  Search        North   83958.93               
+18165  Email         North   21004.38               
+18169  Affiliate     North   13673.51               
+18177  Affiliate     North   18329.19               
+18180  Social Media  North   24838.23               
+18183  Social Media  Norht   11067.54               
+18193  Email         North   14002.68               
+18195  Affiliate     North   22677.42               
+18196  Influencer    North   21570.55               
+18201  Email         East    20792.51               
+18212  Email         North   19446.18               
+18221  Search        North   66476.58               
+18224  Influencer    North   21431.68               
+18230  Affiliate     North   30395.62               
+18234  TV            North   12045.12               
+18239  Social Media  North   14236.06               
+18240  Social Media  North   48960.64               
+18263  TV            North   232056.66              
+18270  Email         North   28955.14               
+18277  Affiliate     North   16174.8                
+18287  Influencer    North   11398.64               
+18309  Social Media  North   137880.91              
+18311  Email         north   27595.92               
+18314  Search        North   15795.54               
+18317  Social Media  North   163566.12              
+18339  Social Media  North   19642.03               
+18344  Affiliate     North   65912.09               
+18346  Social Media  East    17318.51               
+18349  TV            North   19966.08               
+18352  Search        North   31618.64               
+18361  Social Media  North   10927.76               
+18362  Email         North   38035.93               
+18372  Influencer    North   160088.29              
+18382  Affiliate     North   20918.99               
+18384  Social Media  North   18788.42               
+18385  Social Media  North   166015.03              
+18395  Influencer    North   29939.452              
+18402  Email         North   141503.37              
+18404  TV            North   13133.26               
+18405  Search        North   11519.53               
+18407  Email         Norht   29524.55               
+18411  Search        North   12279.98               
+18412  Influencer    North   37465.82               
+18420  Affiliate     North   14981.49               
+18426  Affiliate     North   11096.86               
+18432  Email         North   16330.59               
+18433  Social Media  North   11848.72               
+18437  Social Media  North   143982.3               
+18446  TV            NORTH   11503.96               
+18448  Email         North   17509.59               
+18454  Email         Nort    50502.02               
+18467  Influencer    North   11173.84               
+18472  Affiliate     North   11389.4                
+18476  Affiliate     North   87166.48               
+18483  Affiliate     north   56186.45               
+18484  Search        North   165596.7               
+18494  Affiliate     Norht   11432.23               
+18502  Social Media  North   81406.39               
+18516  Search        North   56137.37               
+18524  Search        North   14506.04               
+18525  Social Media  North   11047.41               
+18533  Email         North   14509.36               
+18534  Influencer    North   42763.01               
+18537  Email         North   225062.56              
+18551  Search        North   10352.82               
+18580  Influencer    North   23547.43               
+18584  Influencer    North   20846.98               
+18586  Social Media  North   172347.84              
+18587  Email         North   123765.53              
+18590  Social Media  North   14555.76               
+18592  Search        North   13974.46               
+18595  Social Media  North   19710.87               
+18597  Search        North   41868.08               
+18617  Email         North   29525.63               
+18625  Email         North   10811.23               
+18633  Social Media  North   21161.85               
+18644  Affiliate     North   112086.2               
+18656  Influencer    North   47704.15               
+18662  Search        north   19666.12               
+18665  Influencer    North   269431.6               
+18677  Email         North   12955.96               
+18680  Email         North   15377.1                
+18693  TV            North   20806.67               
+18716  Affiliate     North   20116.54               
+18725  Social Media  North   292904.61              
+18732  Email         North   41474.4                
+18738  TV            North   48618.59               
+18744  Affiliate     North   22334.02               
+18749  Social Media  North   310393.74              
+18750  Email         North   51000.19               
+18754  Affiliate     North   21550.34               
+18758  Search        North   23679.47               
+18767  Search        North   15089.05               
+18773  Affiliate     North   143006.61              
+18779  Social Media  North   28645.03               
+18780  Email         Norht   10199.95               
+18785  Email         North   81002.49               
+18788  Email         North   158773.09              
+18789  Social Media  West    17669.95               
+18792  TV            North   22034.1                
+18796  Email         North   76537.78               
+18801  Social Media  North   10127.28               
+18807  Social Media  North   10557.09               
+18809  Social Media  North   58146.27               
+18825  SocialMedia   North   21249.07               
+18830  TV            North   50754.88               
+18832  Influencer    North   14610.76               
+18839  TV            North   51879.33               
+18858  Search        North   216163.09              
+18859  Affiliate     East    41916.08               
+18866  Email         North   164435.81              
+18868  Search        North   20667.72               
+18875  Social Media  North   50045.21               
+18876  Social_Media  North   12755.68               
+18877  TV            North   21468.16               
+18880  TV            North   42966.99               
+18885  Email         North   27200.9                
+18897  Affiliate     North   43460.04               
+18911  Email         North   12180.45               
+18918  Social Media  North   14576.96               
+18925  Email         North   81364.22               
+18926  Email         North   98966.21               
+18927  Search        North   19300.7                
+18937  Affiliate     North   165597.47              
+18940  Search        East    10683.84               
+18943  Email         North   53395.61               
+18946  TV            North   108186.33              
+18951  TV            North   11770.74               
+18952  Email         North   16585.13               
+18960  Social Media  North   79308.17               
+18964  Search        North   173145.83              
+18966  Social Media  North   24893.71               
+18968  Affiliate     North   66963.64               
+18983  Email         North   26900.03               
+18985  Affiliate     North   16779.6                
+18988  Influencer    North   22488.58               
+18990  Influencer    North   22467.0                
+18991  Email         North   11048.88               
+18997  Social Media  NORTH   13252.53               
+19002  Email         North   62005.41               
+19004  Email         North   48123.37               
+19008  Search        North   52968.44               
+19010  Email         North   67788.68               
+19013  Search        North   17049.15               
+19015  Email         North   30784.53               
+19019  Influencer    North   231239.51              
+19047  Affiliate     North   189315.2               
+19049  Email         North   11099.65               
+19053  Social Media  North   41669.94               
+19055  TV            north   20765.57               
+19066  Search        North   180870.15              
+19067  TV            North   29190.96               
+19070  Affiliate     North   63022.85               
+19089  Email         North   38594.94               
+19097  Influencer    North   47874.08               
+19110  Social Media  North   22466.01               
+19120  Email         East    20767.76               
+19130  Search        North   27554.41               
+19133  Social Media  North   10714.3                
+19141  Search        North   146027.2               
+19142  Email         North   50149.84               
+19150  Social Media  North   11217.53               
+19159  Search        North   16145.48               
+19173  Affiliate     North   19711.24               
+19178  Search        North   56994.68               
+19186  Search        North   103599.99              
+19188  Social Media  North   21005.13               
+19197  Email         North   52065.88               
+19208  Influencer    North   10039.55               
+19210  Email         North   22566.83               
+19212  Search        North   12136.51               
+19219  Affiliate     North   70713.36               
+19223  Social Media  North   188274.05              
+19232  Search        North   10995.85               
+19235  Email         North   19932.63               
+19242  Email         North   52415.66               
+19243  TV            NORTH   43157.09               
+19245  Social Media  North   10176.11               
+19248  Affiliate     North   26211.52               
+19249  Influencer    North   35233.39               
+19263  Affiliate     North   307162.78              
+19267  Affiliate     North   86176.44               
+19268  Search        North   58112.27               
+19275  Search        North   11762.86               
+19287  Search        North   14237.11               
+19289  Search        North   23946.28               
+19294  Affiliate     North   59479.99               
+19295  Search        North   22023.87               
+19304  social media  North   15846.59               
+19306  Social Media  North   41354.83               
+19310  Social Media  North   15693.06               
+19312  Search        North   82477.78               
+19315  TV            North   12294.78               
+19323  Affiliate     North   39615.56               
+19330  Affiliate     north   14120.64               
+19333  Influencer    north   11362.03               
+19335  Influencer    north   26319.99               
+19342  Social Media  north   20953.42               
+19346  Influencer    North   17206.58               
+19350  Social Media  East    11241.04               
+19355  Search        North   183718.97              
+19361  TV            North   28599.51               
+19363  Affiliate     North   36624.54               
+19364  TV            North   592393.07              
+19366  TV            North   18487.15               
+19368  Social Media  North   39187.65               
+19371  TV            North   16771.3                
+19372  TV            North   62693.83               
+19377  Affiliate     North   17360.46               
+19391  TV            North   12357.16               
+19397  Search        North   11227.65               
+19420  Email         North   56875.77               
+19421  TV            North   17083.32               
+19422  Social Media  North   118585.6               
+19424  Search        North   146202.88              
+19428  Affiliate     North   63885.4                
+19441  Social Media  North   10957.51               
+19444  Affiliate     North   50896.99               
+19447  Affiliate     North   27482.37               
+19451  Search        North   17368.28               
+19459  Email         North   28869.03               
+19472  Affiliate     North   23686.16               
+19474  Email         North   55748.95               
+19477  Email         North   84862.06               
+19490  Social Media  North   58687.24               
+19495  Email         North   19322.18               
+19496  Social Media  North   19810.36               
+19504  TV            North   248409.8               
+19512  Search        North   11730.41               
+19526  TV            North   11087.6                
+19538  Email         North   11237.31               
+19539  Social Media  North   10147.08               
+19540  Influencer    North   320954.14              
+19543  Social Media  North   135572.01              
+19547  Affiliate     North   17861.45               
+19549  TV            North   15981.37               
+19552  Search        North   246933.7               
+19556  Search        North   13184.54               
+19557  Email         North   335164.42              
+19558  Influencer    North   12056.31               
+19582  Social Media  North   21770.92               
+19593  Search        north   45493.66               
+19602  Search        NORTH   236892.83              
+19607  Affiliate     North   10069.57               
+19612  Social Media  North   113761.62              
+19614  Social Media  North   89450.53               
+19619  Search        North   98011.08               
+19624  Affiliate     North   17538.14               
+19631  Email         North   27506.76               
+19647  Email         North   23448.14               
+19649  Email         North   15609.39               
+19654  Search        NORTH   441552.12              
+19663  Social Media  north   81288.02               
+19665  Social Media  North   142461.68              
+19671  Social Media  North   85727.77               
+19680  Influencer    North   156060.7               
+19681  Search        Nort    12682.2                
+19682  Search        North   196743.77              
+19690  TV            North   10799.5                
+19702  Search        North   11624.06               
+19713  Affiliate     North   198639.84              
+19728  Affiliate     North   51483.42               
+19744  Email         North   50340.85               
+19746  Social Media  West    90964.48               
+19762  Social Media  North   10714.16               
+19778  Email         north   74830.86               
+19785  Email         North   49992.79               
+19791  Social Media  North   293020.84              
+19797  Search        North   22262.22               
+19800  Email         North   14591.51               
+19855  Influencer    North   11246.59               
+19856  Social Media  Nort    144021.9               
+19857  Influencer    North   26663.42               
+19888  Social Media  North   58534.08               
+19894  Social Media  North   166045.61              
+19900  Email         North   132653.64              
+19909  Search        East    11037.51               
+19915  Affiliate     North   26581.03               
+19916  Social Media  North   58712.86               
+19929  TV            North   10219.53               
+19930  Search        North   38491.2                
+19932  Email         North   12636.04               
+19934  Email         North   14785.77               
+19941  Search        North   10083.79               
+19957  Social Media  North   347497.34              
+19965  Email         North   11497.72               
+19968  Search        North   98576.61               
+19972  Email         North   43270.85               
+19979  Influencer    North   32199.4                
+19981  Influencer    North   14777.71               
+19985  Search        North   10567.56               
+19989  Social Media  North   47075.6                
+19990  TV            North   19116.08               
+20011  Influencer    North   10184.46               
+20028  Affiliate     North   42140.851              
+20038  Email         North   22939.06               
+20050  Affiliate     North   95594.72               
+20065  Affiliate     North   11792.63               
+20070  Email         North   11520.79               
+20073  Affiliate     North   47670.6                
+20104  TV            North   17993.45               
+20123  Social Media  North   17196.15               
+20127  Affiliate     North   10012.46               
+20145  Email         North   10235.76               
+20151  Affiliate     north   50735.13               
+20153  Influencer    North   18081.86               
+20155  Search        North   11540.45               
+20167  Search        North   109050.07              
+20173  Affiliate     North   15893.22               
+20176  Social Media  North   24527.44               
+20179  TV            North   23073.55               
+20204  Social Media  North   29246.52               
+20209  TV            North   36860.54               
+20217  Social Media  North   14433.81               
+20228  Affiliate     North   44822.03               
+20229  TV            North   30473.7                
+20230  Email         North   59532.14               
+20236  Email         North   31743.88               
+20238  Social Media  North   28022.53               
+20240  Influencer    North   62997.99               
+20241  Affiliate     North   46551.48               
+20246  Social Media  North   11202.47               
+20249  TV            North   217078.96              
+20252  Email         North   403806.16              
+20258  Email         North   39476.92               
+20299  Search        North   12834.63               
+20303  Social Media  North   25784.91               
+20305  Social Media  North   82146.14               
+20315  Email         North   183745.47              
+20319  Search        North   14548.44               
+20322  Social_Media  NORTH   594023.99              
+20336  TV            North   197834.05              
+20362  Email         North   11184.28               
+20363  Social Media  North   158229.84              
+20372  Email         North   13296.07               
+20374  Search        North   204770.71              
+20388  Email         North   18456.0                
+20391  Email         North   157033.5               
+20410  Social Media  North   12559.88               
+20416  Affiliate     North   11507.15               
+20426  Social Media  North   55066.64               
+20433  Search        North   42986.431              
+20437  Social Media  North   19793.4                
+20476  TV            North   31131.35               
+20480  Affiliate     North   11858.56               
+20481  Social Media  North   256567.15              
+20499  Search        North   293260.47              
+20508  Social Media  North   96356.25               
+20516  Influencer    North   12836.44               
+20535  Search        North   102877.3               
+20536  Email         North   17449.4                
+20542  Search        North   21745.06               
+20546  Social Media  North   186194.78              
+20552  Email         North   65151.49               
+20564  Email         north   20830.01               
+20568  Search        North   12378.9                
+20572  Affiliate     North   17287.13               
+20575  Social Media  North   48825.84               
+20576  Search        North   11383.35               
+20581  TV            North   80346.79               
+20586  Social Media  North   14456.88               
+20591  Affiliate     North   44247.23               
+20593  Email         North   112814.8               
+20597  Search        North   291393.14              
+20600  TV            North   65769.34               
+20601  Email         North   18916.51               
+20605  Social Media  North   16998.44               
+20616  Social Media  North   16062.25               
+20619  Email         North   11775.49               
+20621  Social Media  North   34154.6                
+20635  Search        North   124740.68              
+20637  Affiliate     North   514435.34              
+20644  Email         North   22938.52               
+20649  Search        North   13597.85               
+20657  Affiliate     North   47226.38               
+20659  Search        North   10730.09               
+20673  Search        North   84838.73               
+20676  Search        North   28050.36               
+20677  Search        North   35913.26               
+20689  Search        North   14529.43               
+20701  Email         North   25370.88               
+20723  Affiliate     North   11481.96               
+20731  Search        North   14350.01               
+20738  Email         North   16047.05               
+20740  Search        North   14520.28               
+20751  Email         North   145002.77              
+20754  Social Media  North   13845.23               
+20763  Influencer    North   15921.5                
+20767  Social Media  North   29836.37               
+20779  Social Media  North   12928.08               
+20798  Social Media  North   35218.13               
+20803  Search        North   328854.12              
+20804  Search        North   52156.15               
+20817  Social Media  North   11433.03               
+20821  Affiliate     North   22052.63               
+20824  Influencer    North   12001.84               
+20828  Email         North   10259.23               
+20832  Email         North   39255.042              
+20841  Social Media  North   20316.33               
+20849  Email         North   13347.89               
+20860  Email         North   69356.68               
+20865  Social Media  North   263570.0               
+20891  Social Media  North   63879.58               
+20901  Influencer    North   13508.9                
+20903  Email         North   10742.55               
+20904  Affiliate     North   13202.5                
+20909  Social Media  North   19275.68               
+20916  Search        North   23876.36               
+20917  Influencer    North   16972.52               
+20942  Social Media  North   33289.77               
+20947  Search        North   10114.68               
+20949  Affiliate     North   15637.99               
+20950  Email         North   13003.18               
+20957  Search        West    15906.08               
+20960  Email         North   24917.24               
+20971  Search        North   10417.42               
+20972  Affiliate     North   15803.22               
+20980  TV            North   15083.0                
+20991  Affiliate     North   222877.56              
+21000  Search        North   29197.22               
+21003  Affiliate     North   11451.13               
+21008  Affiliate     North   12042.75               
+21009  Affiliate     North   100956.45              
+21011  Email         North   32016.62               
+21014  Social Media  North   133985.63              
+21018  Search        North   12442.19               
+21020  Influencer    North   68872.52               
+21032  Social Media  North   32106.89               
+21039  TV            North   10157.86               
+21057  TV            North   20522.7                
+21064  Affiliate     North   52955.97               
+21077  Email         North   10303.52               
+21091  social media  North   17518.34               
+21092  Social Media  West    118333.4               
+21095  Search        North   26684.23               
+21115  TV            North   47278.63               
+21118  Social Media  North   69895.24               
+21127  Influencer    North   15505.49               
+21129  Influencer    North   494695.63              
+21147  Affiliate     North   13319.68               
+21150  Email         North   10995.89               
+21154  TV            North   19682.35               
+21156  Affiliate     North   11429.68               
+21158  Social Media  North   31459.66               
+21162  Search        North   12157.6                
+21185  Search        North   32086.56               
+21190  Email         North   12201.22               
+21193  Email         North   16648.26               
+21195  Search        Norht   11771.82               
+21201  Search        North   12915.08               
+21202  Search        North   27885.76               
+21207  Email         North   33226.76               
+21220  Email         North   21581.84               
+21224  Email         North   11166.82               
+21227  Search        North   186537.83              
+21231  Email         North   26349.06               
+21236  Social Media  North   236785.29              
+21237  Search        North   132716.71              
+21240  Social Media  North   136618.17              
+21245  Social Media  North   16964.44               
+21252  Email         North   15527.84               
+21263  Affiliate     North   221139.59              
+21267  Social Media  North   32242.18               
+21277  Search        North   22714.65               
+21294  Search        North   21948.31               
+21300  Email         North   27685.53               
+21302  Email         North   21531.7                
+21306  Search        North   28242.3                
+21312  TV            North   58449.32               
+21316  Search        North   15529.55               
+21320  Email         North   28544.07               
+21322  Social Media  North   10277.86               
+21327  Email         North   19970.59               
+21334  Search        North   48724.09               
+21364  TV            North   164172.54              
+21367  Affiliate     North   239013.28              
+21374  Social Media  North   174167.35              
+21380  Email         North   11029.39               
+21395  TV            North   49418.89               
+21402  Influencer    North   10220.81               
+21409  Email         North   59706.28               
+21410  Search        North   101115.62              
+21411  Social Media  North   104497.92              
+21412  Social Media  West    54505.98               
+21415  Social Media  North   10356.45               
+21417  Affiliate     North   52829.56               
+21419  Search        North   19473.18               
+21428  Search        North   17547.59               
+21445  Email         North   31268.25               
+21464  Influencer    North   66189.03               
+21486  Search        NORTH   499899.2               
+21497  TV            North   188065.72              
+21500  Influencer    North   27640.22               
+21513  Influencer    North   33302.76               
+21515  Email         North   11358.99               
+21519  Affiliate     North   20226.97               
+21535  Social Media  North   437621.36              
+21543  Email         Nort    16627.31               
+21565  Affiliate     North   27914.12               
+21566  Email         North   13260.14               
+21576  Email         North   137932.23              
+21601  Social_Media  North   20300.14               
+21612  Search        North   12987.56               
+21614  Email         North   237270.04              
+21621  Search        North   10305.29               
+21635  Search        North   266933.44              
+21639  Search        North   26023.7                
+21643  Influencer    North   10488.3                
+21671  Influencer    North   295649.84              
+21675  Social Media  North   29658.72               
+21702  Social Media  North   10142.97               
+21711  Affiliate     North   10825.49               
+21721  Social Media  North   250066.8               
+21723  Affiliate     North   10716.79               
+21725  Influencer    North   35007.95               
+21731  Search        North   277040.18              
+21734  Search        North   10015.83               
+21743  Search        north   180579.1               
+21752  TV            North   39774.31               
+21770  Search        North   443742.86              
+21771  Email         North   10577.09               
+21776  Affiliate     North   13596.67               
+21777  Social Media  North   10579.7                
+21785  Social Media  North   15551.54               
+21795  Affiliate     North   167266.75              
+21796  Affiliate     North   41191.52               
+21802  Social Media  North   33160.95               
+21809  Social Media  North   20469.0                
+21813  Influencer    North   13174.12               
+21815  Search        North   30686.88               
+21827  Search        North   87141.28               
+21832  Search        North   10819.9                
+21835  Search        North   11862.58               
+21858  Search        North   19032.89               
+21859  Influencer    North   17967.91               
+21862  Email         East    15874.3                
+21868  Affiliate     North   11942.41               
+21870  Search        North   101258.57              
+21873  Affiliate     North   28466.14               
+21877  TV            North   28450.26               
+21879  TV            North   50620.61               
+21880  Affiliate     North   68408.45               
+21895  Search        North   52041.09               
+21927  Email         North   11012.42               
+21931  Social Media  North   54058.25               
+21956  Affiliate     North   86899.16               
+21959  Search        North   38985.51               
+21961  Social Media  North   13989.0                
+21964  Search        Nort    18450.58               
+21976  Influencer    North   24606.33               
+21981  Influencer    North   31944.51               
+21984  Search        Norht   204550.94              
+21996  Email         North   57296.03               
+22016  social media  North   145146.77              
+22023  Social Media  North   18334.95               
+22028  Search        North   43174.78               
+22033  Affiliate     North   42516.96               
+22034  Email         North   19367.27               
+22040  Social Media  North   11244.95               
+22063  Influencer    North   29079.08               
+22066  Search        North   45067.28               
+22085  Search        North   23640.99               
+22094  Social Media  North   21998.51               
+22095  Influencer    North   13035.08               
+22098  Search        north   35002.63               
+22102  Search        North   26536.19               
+22108  Social Media  East    10922.67               
+22110  Social Media  North   18745.14               
+22112  Email         North   27525.78               
+22130  Search        North   27796.68               
+22131  TV            North   45431.81               
+22138  Socail Media  North   12760.93               
+22146  Social Media  NORTH   103390.45              
+22154  Search        North   38333.46               
+22170  Email         North   46384.79               
+22184  Social Media  North   10621.4                
+22193  Influencer    North   13348.1                
+22195  Email         East    13302.32               
+22207  Influencer    North   16299.14               
+22215  Social Media  NORTH   56470.58               
+22222  Email         North   11510.65               
+22227  Search        North   11887.28               
+22233  Search        North   32973.79               
+22234  Email         North   20137.3                
+22239  Email         North   24350.91               
+22240  Social Media  North   53424.5                
+22246  Email         North   14590.17               
+22247  Influencer    North   13361.05               
+22267  social Media  North   47427.59               
+22276  Search        North   10184.65               
+22285  Email         North   10608.71               
+22306  Search        North   18593.05               
+22310  Social Media  North   15231.35               
+22315  Social Media  North   190407.43              
+22317  TV            North   67683.79               
+22318  Search        North   27366.722              
+22322  Email         North   49071.49               
+22327  Search        North   68514.6                
+22334  TV            North   87045.76               
+22356  Influencer    North   277774.77              
+22358  TV            North   37642.73               
+22362  Search        North   31732.04               
+22365  Search        North   61342.17               
+22366  Search        North   14446.29               
+22371  Email         North   34799.92               
+22380  TV            North   13064.69               
+22382  Search        North   11090.55               
+22387  Social Media  North   90376.21               
+22390  TV            North   91765.58               
+22409  Social Media  North   56032.17               
+22421  TV            North   37263.46               
+22431  Affiliate     Nort    17599.67               
+22432  Social Media  North   10937.65               
+22436  Social Media  North   24458.53               
+22442  Search        North   34531.34               
+22453  Email         North   79427.62               
+22457  Affiliate     North   135341.03              
+22468  Social Media  North   12322.24               
+22479  Email         NORTH   13567.82               
+22490  Influencer    North   20214.55               
+22501  Social Media  North   10220.12               
+22502  Affiliate     North   10455.86               
+22506  TV            North   24381.18               
+22511  Email         north   23150.49               
+22515  Social Media  North   13212.47               
+22541  Email         North   24379.49               
+22545  Email         North   33521.28               
+22555  Email         North   50553.42               
+22561  TV            North   10082.98               
+22568  Search        North   56090.67               
+22569  Email         North   31604.2                
+22578  Search        North   55735.07               
+22583  Social Media  North   37074.09               
+22593  Influencer    North   56028.11               
+22602  TV            North   11345.06               
+22604  Email         North   11736.87               
+22617  TV            North   18331.3                
+22620  Social Media  North   32075.12               
+22622  Search        North   78934.25               
+22625  Social Media  North   28711.88               
+22634  Social Media  North   59696.14               
+22639  Social_Media  North   44700.01               
+22642  Email         North   31593.16               
+22651  Social Media  North   11767.27               
+22653  Email         North   23815.49               
+22660  Email         North   10772.05               
+22669  Search        North   19826.34               
+22676  Influencer    North   19085.0                
+22678  Search        North   22307.27               
+22679  Affiliate     North   20786.49               
+22684  Affiliate     North   283811.58              
+22686  Email         North   220891.42              
+22693  Search        North   14028.07               
+22700  Social Media  North   276580.82              
+22702  Influencer    North   27036.75               
+22707  Email         North   166994.75              
+22727  Search        North   13707.78               
+22739  Email         North   39764.69               
+22742  Search        North   15130.01               
+22768  Social Media  North   30587.53               
+22775  Search        North   26698.7                
+22777  Search        North   52979.44               
+22785  Influencer    North   221460.84              
+22792  Email         East    16520.36               
+22797  Email         North   12556.68               
+22804  Email         North   11448.81               
+22805  Social Media  North   10299.86               
+22809  Search        North   11022.74               
+22817  Email         North   14723.03               
+22818  Influencer    North   14261.49               
+22826  Email         North   80189.71               
+22835  Influencer    North   32304.981              
+22838  Affiliate     north   42679.61               
+22871  Influencer    North   27400.45               
+22879  Affiliate     North   37227.01               
+22887  Influencer    North   158422.26              
+22893  Email         North   55196.12               
+22897  Affiliate     North   10908.97               
+22907  Social Media  North   67263.62               
+22909  Influencer    North   50955.94               
+22924  Email         North   21424.55               
+22930  TV            North   99478.5                
+22946  Influencer    North   21183.13               
+22952  TV            North   15293.27               
+22957  Social Media  North   155074.67              
+22959  Affiliate     North   12577.67               
+22965  Search        North   16766.47               
+22967  Search        North   30714.57               
+22973  Social Media  North   11798.56               
+22978  Affiliate     North   20954.96               
+22985  Search        North   53239.84               
+23011  Search        North   265009.4               
+23014  Affiliate     North   259755.75              
+23015  Affiliate     North   44611.17               
+23016  TV            North   12570.29               
+23026  Search        North   11360.6                
+23032  Influencer    North   58587.45               
+23058  Affiliate     North   495924.03              
+23060  Affiliate     North   156878.81              
+23064  Affiliate     North   14398.93               
+23065  Social Media  West    57868.58               
+23068  Search        North   10305.94               
+23073  TV            North   13110.22               
+23085  Email         north   30725.84               
+23088  Influencer    East    18064.91               
+23089  Search        North   149965.58              
+23093  Affiliate     North   302203.02              
+23098  Affiliate     North   10988.87               
+23099  Social Media  North   183406.7               
+23123  social media  North   247949.02              
+23131  social media  North   13902.25               
+23133  Email         North   117614.96              
+23136  Social Media  North   42503.47               
+23142  Email         North   37500.11               
+23148  Search        North   10049.79               
+23149  Social Media  North   16942.402              
+23160  Search        North   30442.86               
+23167  Search        North   87800.64               
+23173  Social Media  North   51103.06               
+23174  Affiliate     North   213728.61              
+23192  Search        North   13830.51               
+23197  Search        North   36606.51               
+23198  Search        North   32096.96               
+23201  Influencer    East    11743.51               
+23209  Social Media  North   177768.77              
+23211  Social Media  North   136096.59              
+23212  Affiliate     North   22518.14               
+23228  Search        North   19546.8                
+23242  Email         North   58859.55               
+23246  Social Media  North   10589.3                
+23248  Influencer    North   29985.37               
+23256  TV            North   55531.64               
+23258  Affiliate     North   21563.72               
+23263  Influencer    North   10674.93               
+23265  Email         North   18856.1                
+23271  Search        North   12142.26               
+23274  Social Media  North   10640.66               
+23283  Influencer    North   120009.87              
+23285  Search        North   187571.94              
+23294  TV            North   45235.4                
+23295  Search        North   59539.94               
+23304  Social Media  north   252131.9               
+23306  Email         North   124958.03              
+23309  Social Media  North   10532.23               
+23311  Affiliate     NORTH   190284.63              
+23312  Email         North   33473.16               
+23321  Affiliate     North   28473.64               
+23350  Social Media  North   108181.43              
+23360  Social Media  North   198669.84              
+23363  Social Media  North   23170.73               
+23368  Search        North   13222.2                
+23369  Email         North   45397.75               
+23373  Affiliate     North   10177.78               
+23379  Email         North   251558.03              
+23382  Email         North   19374.38               
+23390  Influencer    North   15960.3                
+23394  Email         North   222083.87              
+23416  Affiliate     West    133651.73              
+23417  Search        North   77994.56               
+23433  Affiliate     Nort    32985.14               
+23439  Search        North   26681.65               
+23443  Social Media  North   12438.48               
+23454  Social Media  North   13220.58               
+23482  Email         North   18870.002              
+23483  Search        North   27740.62               
+23488  Email         West    12686.61               
+23506  Email         North   27795.07               
+23515  Influencer    North   12547.82               
+23517  Social Media  North   63000.87               
+23523  Social Media  North   374051.95              
+23529  Search        North   20549.08               
+23532  Influencer    North   45269.55               
+23533  Social Media  North   13732.15               
+23538  Search        North   396483.0               
+23542  TV            North   10914.19               
+23546  TV            north   24660.84               
+23548  Social Media  North   113458.54              
+23563  Social Media  North   13587.12               
+23567  Search        North   150068.35              
+23571  Social Media  North   62900.0                
+23575  Affiliate     North   15836.1                
+23576  TV            North   25422.48               
+23585  Email         North   11908.25               
+23593  Affiliate     North   103016.35              
+23594  TV            North   150574.24              
+23597  Affiliate     North   26292.51               
+23600  Influencer    North   67465.66               
+23602  Affiliate     North   17410.96               
+23604  Search        North   11472.55               
+23606  Email         North   11249.23               
+23607  Social Media  North   15883.92               
+23608  TV            North   16468.18               
+23635  TV            North   23622.34               
+23636  TV            North   46076.13               
+23638  Influencer    North   13617.65               
+23654  Email         North   262931.0               
+23671  Email         North   16463.51               
+23676  Social Media  North   11794.52               
+23679  Search        North   12405.47               
+23682  Social Media  North   11317.45               
+23697  Affiliate     North   20042.93               
+23711  Search        North   21783.04               
+23714  Search        North   17805.83               
+23723  Search        North   18071.7                
+23730  Search        North   23924.1                
+23743  Search        North   12942.53               
+23748  Social Media  North   74255.92               
+23776  Email         North   12654.19               
+23783  Search        North   11050.37               
+23784  TV            North   35982.91               
+23785  Affiliate     North   66457.23               
+23788  Affiliate     North   239171.36              
+23792  Search        North   23803.67               
+23803  Search        North   12187.69               
+23806  Social Media  North   16775.45               
+23809  TV            North   55034.5                
+23810  Search        North   60332.93               
+23812  Search        North   16251.07               
+23814  Affiliate     North   173970.64              
+23816  Social Media  North   11800.53               
+23819  Search        North   43310.97               
+23824  Social Media  North   51480.12               
+23850  Email         North   22608.08               
+23851  Email         North   20684.93               
+23863  Search        North   15000.01               
+23886  Influencer    East    12755.22               
+23903  Search        North   128855.79              
+23904  Search        North   131982.03              
+23906  TV            North   22018.77               
+23908  Social Media  North   19897.98               
+23917  Search        North   241026.04              
+23921  Influencer    North   21744.02               
+23924  Social Media  Norht   70770.8                
+23925  Email         North   88962.83               
+23931  Social Media  North   12423.05               
+23934  Email         North   53949.83               
+23938  Influencer    North   21402.09               
+23945  Email         North   12520.87               
+23957  Email         North   12077.11               
+23972  Social Media  North   20473.03               
+23982  Affiliate     North   36893.92               
+23986  Search        North   10522.44               
